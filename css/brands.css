@@ -218,7 +218,7 @@
 .button-github {
 	--button-text: #ffffff;
 	--button-background: #000000;
-	--button-border: none;
+	--button-border: 1px solid #000000;
 }
 
 /* GitLab */
