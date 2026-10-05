@@ -1,4 +1,4 @@
-# LittleLink
-The DIY self-hosted LinkTree alternative. LittleLink has more than 100 branded button styles you can easily use, with more regularly added by our community. The original repository can be found here: [LittleLink]([https://github.com/sethcottle/littlelink-extended](https://github.com/sethcottle/littlelink)).
+# louwpost.nl
+Repo for my personal website, which just contains the url's to my socials and GitHub page.
 
-This fork is mainly for my own website hosted @ louwpost.nl
+The template is based on the Aerial template from [HTML5 UP!](https://html5up.net/).
