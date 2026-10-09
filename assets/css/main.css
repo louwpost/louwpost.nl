@@ -942,4 +942,12 @@ input, select, textarea {
 
 		#header nav {
 			padding: 0 1em;
-		} }
+		}
+
+			#header nav ul {
+				max-width: 16.05em; /* 3 × the existing 5.35em list-item width */
+				margin-left: auto;
+				margin-right: auto;
+			}
+	
+	}
