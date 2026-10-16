@@ -113,8 +113,8 @@ body {
 
 /* Footer */
 footer {
-	margin:var(--spacing-xxl) 0;            /* 4rem (64px) top and bottom */
-    font-size:var(--scale-0);
+	margin:var(--spacing-m) 0;            /* 4rem (64px) top and bottom */
+    font-size: 0.5em;
 }
 
 /* Responsive adjustments */
@@ -219,7 +219,7 @@ a:hover {
 	color:#ffffff;
 }
 :root.theme-dark a:not(.button) {
-	color:#4899F7;
+	color:#ffffff;
 }
 :root.theme-dark a:not(.button):hover {
 	color:#7AB8FF;
